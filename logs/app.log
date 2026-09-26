@@ -1,7 +1,0 @@
-# Application Runtime & Event Logs Stream
-[2026-09-26 01:20:31] [INFO] [GATEWAY RECEPTION] Created Order ORD-5831097 (ID: ord_jest_101). Emitting 'order.created' event.
-[2026-09-26 01:20:31] [INFO] [EVENT BROKER] Publishing event 'order.created' (evt_1790365831102_0a9b8abf) - IdempotencyKey: idemp_jest_test_key_101
-[2026-09-26 01:21:12] [INFO] [GATEWAY RECEPTION] Created Order ORD-5872412 (ID: ord_jest_101). Emitting 'order.created' event.
-[2026-09-26 01:21:12] [INFO] [EVENT BROKER] Publishing event 'order.created' (evt_1790365872418_95bb14d9) - IdempotencyKey: idemp_jest_test_key_101
-[2026-09-26 01:31:45] [INFO] [GATEWAY RECEPTION] Created Order ORD-6505911 (ID: ord_jest_101). Emitting 'order.created' event.
-[2026-09-26 01:31:45] [INFO] [EVENT BROKER] Publishing event 'order.created' (evt_1790366505917_3415bfd8) - IdempotencyKey: idemp_jest_test_key_101
